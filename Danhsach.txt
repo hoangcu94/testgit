@@ -1,5 +1,5 @@
 Danh sach thanh vien
 
 - Nhom 1
-    -Thanh vien 1
+    - Thanh vien 1
     - Thanh vien 2
