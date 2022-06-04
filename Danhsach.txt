@@ -1,4 +1,2 @@
 Danh sach thanh vien
 
--Nhom 2
-    - Thanh vien 3
