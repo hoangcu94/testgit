@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 Danh sach thanh vien
 
 - Nhom 1
     - Thanh vien 1
     - Thanh vien 2
-=======
 - Nhom 2:
     - User 1
     - User 2
->>>>>>> nhom2
