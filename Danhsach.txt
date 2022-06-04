@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 - Nhom 2:
     - User 1
     - User 2
+=======
+-Nhom 2
+
+    - User 3
+>>>>>>> user3
